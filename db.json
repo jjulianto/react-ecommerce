@@ -1,0 +1,148 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "MINISO Storage Box Organizer",
+            "seller": "MINISOSO",
+            "prices": {
+                "actualPrice": 98000,
+                "discountPrice": 72000,
+                "isDiscount": true
+            },
+            "stock": 11,
+            "image": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/11/12/896f4efd-59a0-4253-b965-abaf5df34a5c.jpg.webp"
+        },
+        {
+            "id": 2,
+            "name": "Samsung Galaxy S20 FE 8/128 Garansi Resmi SEIN",
+            "seller": "EkaCell Bandung",
+            "prices": {
+                "actualPrice": 6999000,
+                "discountPrice": 6199000,
+                "isDiscount": true
+            },
+            "stock": 8,
+            "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/11/14/c12f0bc2-74c1-4bfa-9b1f-fb9c6262bfea.jpg.webp"
+        },
+        {
+            "id": 3,
+            "name": "Samsung Galaxy A02 3//32 Garansi Resmi SEIN",
+            "seller": "EkaCell Bandung",
+            "prices": {
+                "actualPrice": 1470000,
+                "discountPrice": 1400000,
+                "isDiscount": false
+            },
+            "stock": 3,
+            "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/2/18/1bfa6f89-cf7e-4c54-9fd1-3e2713cbdb4c.jpg.webp"
+        },
+        {
+            "id": 4,
+            "name": "INBEX Tripod Octopus Paket V LOG Mini HP Flexible Holder",
+            "seller": "EkaCell Bandung",
+            "prices": {
+                "actualPrice": 120000,
+                "discountPrice": 99000,
+                "isDiscount": true
+            },
+            "stock": 23,
+            "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/6/22/9e935d0f-b520-470a-b057-42b87560f653.jpg.webp?ect=4g"
+        },
+        {
+            "id": 5,
+            "name": "Logitech C615 Webcam Full HD",
+            "seller": "AKSARACOMP",
+            "prices": {
+                "actualPrice": 98000,
+                "discountPrice": 72000,
+                "isDiscount": true
+            },
+            "stock": 0,
+            "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/6/17/e4c204f8-7fcf-4cf2-a258-f6253641f1ac.jpg.webp?ect=4g"
+        },
+        {
+            "id": 6,
+            "name": "Masker Kain Honeywell Dual Layer Face Cover",
+            "seller": "Honewell ID",
+            "prices": {
+                "actualPrice": 109000,
+                "discountPrice": 99000,
+                "isDiscount": true
+            },
+            "stock": 97,
+            "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2020/11/9/3830ba4c-0bae-41e0-8b04-1c6848ce5f50.png.webp?ect=4g"
+        },
+        {
+            "id": 7,
+            "name": "Ecentio Botol Minum 1L Kapasitas Besar Botol Air Minum Sporty",
+            "seller": "Ecent.io",
+            "prices": {
+                "actualPrice": 500000,
+                "discountPrice": 492000,
+                "isDiscount": false
+            },
+            "stock": 8,
+            "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/11/16/62eb1199-1d0f-4732-82dc-5288913aafb6.jpg.webp?ect=4g"
+        },
+        {
+            "id": 8,
+            "name": "Wiper Mobil Honda Mobilio",
+            "seller": "OkaOto",
+            "prices": {
+                "actualPrice": 98000,
+                "discountPrice": 72000,
+                "isDiscount": false
+            },
+            "stock": 128,
+            "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/4/19/4de78994-59ef-4236-8678-b847cbe2f35e.jpg.webp?ect=4g"
+        },
+        {
+            "id": 9,
+            "name": "Selamat Wafer Coklat 198 g",
+            "seller": "OKE Toserba",
+            "prices": {
+                "actualPrice": 12900,
+                "discountPrice": 11400,
+                "isDiscount": false
+            },
+            "stock": 80,
+            "image": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/8/27/106307056/106307056_de911233-26d8-440a-ab28-c99e143c1561_2048_2047.webp"
+        },
+        {
+            "id": 10,
+            "name": "Jaket One Piece Kaido XL",
+            "seller": "Animinimalist",
+            "prices": {
+                "actualPrice": 129000,
+                "discountPrice": 99000,
+                "isDiscount": true
+            },
+            "stock": 26,
+            "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/11/7/a458f8bf-c095-465c-aeef-f47706d47149.jpg.webp"
+        },
+        {
+            "id": 11,
+            "name": "Jam Tangan G-SHOCK GA-2100 Black Original BM",
+            "seller": "G-SHOCK Tangerang",
+            "prices": {
+                "actualPrice": 320000,
+                "discountPrice": 299000,
+                "isDiscount": true
+            },
+            "stock": 300,
+            "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/3/6/21b4e300-b179-43fa-97b0-17d31be46a19.jpg.webp"
+        },
+        {
+            "id": 12,
+            "name": "Sticker Stiker Anime Slap Luffy One Piece Kecil",
+            "seller": "OkaOto",
+            "prices": {
+                "actualPrice": 10000,
+                "discountPrice": 10000,
+                "isDiscount": false
+            },
+            "stock": 920,
+            "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2020/12/13/4232aa7e-7734-4265-8865-a20b1fab442e.jpg.webp"
+        }
+    ],
+    "carts": []
+}
