@@ -6,6 +6,12 @@ import "react-notifications-component/dist/theme.css";
 import "animate.css";
 import { Button, Col, Container, Row } from "react-bootstrap";
 import { CardProduct } from "../components";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faMedal,
+  faDollarSign,
+  faHandHoldingHeart,
+} from "@fortawesome/free-solid-svg-icons";
 
 const Home = () => {
   const { data } = useSelector((state) => state.homeReducer);
@@ -136,6 +142,52 @@ const Home = () => {
         </Col>
       </Row>
       <Row className="mt-5">
+        <Col xs={12} className="text-center mb-4">
+          <h2>
+            <strong>Why Choose Us?</strong>
+          </h2>
+        </Col>
+        <Col md={4} xs={12} className="text-center p-3">
+          <FontAwesomeIcon
+            icon={faHandHoldingHeart}
+            style={{ color: "#198754", fontSize: "64px", marginBottom: "25px" }}
+          />
+          <h4>
+            <strong>Easy to Order</strong>
+          </h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste,
+            reiciendis consequatur! Laboriosam nam sint fugit.
+          </p>
+        </Col>
+        <Col md={4} xs={12} className="text-center p-3">
+          <FontAwesomeIcon
+            icon={faDollarSign}
+            style={{ color: "#198754", fontSize: "64px", marginBottom: "25px" }}
+          />
+          <h4>
+            <strong>Affordable Price</strong>
+          </h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
+            enim sint perferendis at. Corporis, sed!
+          </p>
+        </Col>
+        <Col md={4} xs={12} className="text-center p-3">
+          <FontAwesomeIcon
+            icon={faMedal}
+            style={{ color: "#198754", fontSize: "64px", marginBottom: "25px" }}
+          />
+          <h4>
+            <strong>Best Quality</strong>
+          </h4>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore
+            libero molestiae non earum sed sunt.
+          </p>
+        </Col>
+      </Row>
+      <Row className="mt-5">
         <Col>
           <h2>
             <strong>Product List</strong>
@@ -144,7 +196,7 @@ const Home = () => {
       </Row>
       <Row className="mb-4">
         {data.map((product) => (
-          <Col md={4} xs={6} className="mb-4" key={product.id}>
+          <Col md={4} xs={12} className="mb-4" key={product.id}>
             <CardProduct product={product} addToCart={addToCart} />
           </Col>
         ))}
